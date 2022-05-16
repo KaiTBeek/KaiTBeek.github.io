@@ -1,17 +1,23 @@
+h1{
+    color: #008E00
+}
 ul {
-    background: #080808;
+    background: #006A00;
     padding: 10px;
 }
 ul li {
     background: #787878;
     padding: 5px;
-    border: solid 2px white;
+    border: solid 2px #00B000;
     display: inline-block;
 }
 ul li a {
-    color: white;
+    color: #00B000;
     text-decoration: none;
 }
 ul li a:hover {
-    color: #C0C0C0;
+    color: #009300;
 } 
+h2{
+    color: #008E00
+}
