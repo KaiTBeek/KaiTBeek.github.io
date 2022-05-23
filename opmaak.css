@@ -1,5 +1,8 @@
+body{
+    background-color: #949ECC;
+}
 h1{
-    color: #008E00
+    color: #008E00;
 }
 ul {
     background: #006A00;
@@ -21,3 +24,23 @@ ul li a:hover {
 h2{
     color: #008E00
 }
+section{
+    font-size: 20px;
+    color: #008E00;
+}
+section article {
+    border: 5px solid black;
+    border-radius: 0px 20px 20px 20px;
+    margin: 5px 10px 5px 10px;
+    padding: 5px;
+    background: white;
+  }
+  footer {
+    background: #008E00;
+  }
+  
+  footer h3 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 100%;
+  }
