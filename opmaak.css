@@ -8,10 +8,6 @@ ul#navbar {
     background: #006A00;
     padding: 10px;
 }
-
-ul#BadgesLijst {
-  padding: 100px;
-}
 ul#navbar li {
     background: #787878;
     padding: 5px;
@@ -48,3 +44,19 @@ section article {
     font-weight: normal;
     font-size: 100%;
   }
+ul#BadgesLijst {
+    background: #006A00;
+    padding: 10px;
+}
+ul#BadgesLijst li {
+    background: #ffffff;
+    padding: 5px;
+    border: solid 2px #00B000;
+    display: inline-block;
+}
+ul#BadgesLijst li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+ul#BadgesLijst li a:hover {
+    color: #000000;
